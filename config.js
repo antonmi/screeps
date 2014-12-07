@@ -1,0 +1,3 @@
+
+global.Game = {}
+global.Memory = {}
