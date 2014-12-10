@@ -1,2 +1,4 @@
-require("./config")
-require('./lib/required');
+require('required');
+Game.Initiator.init_all();
+
+Game.Performer.perform_all();
